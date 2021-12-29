@@ -1,6 +1,5 @@
 # Mixed-Messages
 ## Table of Contents
-======================
 
 * [General info](#general-info)
 * [Technologies](#technologies)
