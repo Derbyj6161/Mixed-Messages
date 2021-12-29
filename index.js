@@ -9,6 +9,6 @@ const getRandomMessage = nestedArray => {
     nestedArray.forEach(array => {
          completeSentence.push(array[Math.floor(Math.random() * array.length)]);
     });
-    return `${completeSentence[0]} ${completeSentence[1]}, ${completeSentence[2]}`
+    console.log(`${completeSentence[0]} ${completeSentence[1]}, ${completeSentence[2]}`)
 };
 getRandomMessage(sentenceArrays);
