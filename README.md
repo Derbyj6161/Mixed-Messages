@@ -13,7 +13,7 @@ This project will generate a random greeting got the user.
 * JavaScript
 
 ## Code examples 
-The 'getRandomMessage' function takes a nested array and generates a new message.
+The `getRandomMessage` function takes a nested array and generates a new message.
 ```javascript
 const getRandomMessage = nestedArray => {
     let completeSentence = []
