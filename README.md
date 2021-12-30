@@ -7,7 +7,7 @@
 * [Code examples](#code-examples)
 
 ## General info
-This project will generate a random greeting got the user.
+This project will generate a random greeting for the user.
 
 ## Technologies
 * JavaScript
