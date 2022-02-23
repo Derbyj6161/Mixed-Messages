@@ -3,7 +3,6 @@
 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Code examples](#code-examples)
 
 ## General info
@@ -12,12 +11,6 @@ This project will generate a random greeting for the user.
 ## Technologies
 * JavaScript
 * Node.js v16.13.1
-
-## Setup
-```
-$ cd ../mixed_Messages
-$ node randomMessageGenerator.js
-```
 
 ## Code examples 
 The `getRandomMessage` function takes a nested array and generates a new message.
